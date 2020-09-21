@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning ... Flutter
+- 🔭 I’m currently working on ReactJs, NodeJs, PHP, Laravel, Codeigniter, Opencart, JavaScript, HTML, CSS and more
