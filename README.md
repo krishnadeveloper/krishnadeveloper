@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning ... Flutter
+- 🌱 I’m currently learning ... ElectronJs
 - 🔭 I’m currently working on ReactJs, NodeJs, PHP, Laravel, Codeigniter, Opencart, JavaScript, HTML, CSS and more
 - 📫 How to reach me: +91-9999427317 , getkrishnakumar1990@gmail.com
